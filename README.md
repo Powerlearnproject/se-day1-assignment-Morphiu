@@ -103,6 +103,6 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 >An example of a vague prompt would be, "Tell me about cars".
 
 >The improved version would be, "Explain how cars work in the context of power sources and provide examples of the various types of cars." This prompt is more effective because:
-1. It defines the scope, "how cars work".
-2. It specifies the context, "Power sources".
-3. It requests examples ensuring a thorough explanation of the topic at hand
+>1. It defines the scope, "how cars work".
+>2. It specifies the context, "Power sources".
+>3. It requests examples ensuring a thorough explanation of the topic at hand
